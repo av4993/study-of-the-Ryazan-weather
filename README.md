@@ -16,3 +16,8 @@
 //sila_vetrov.ipynb
 работа со скоростью ветра
 
+//davlenie.ipynb
+работа с давлением
+
+//obschie.ipynb
+работа с разными переменными
