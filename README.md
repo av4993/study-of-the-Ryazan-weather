@@ -19,5 +19,8 @@
 //davlenie.ipynb
 работа с давлением
 
+//temperatura.ipynb
+работа с температурой
+
 //obschie.ipynb
 работа с разными переменными
