@@ -22,5 +22,8 @@
 //temperatura.ipynb
 работа с температурой
 
+//oblachnost.ipynb
+работа с облачностью
+
 //obschie.ipynb
 работа с разными переменными
