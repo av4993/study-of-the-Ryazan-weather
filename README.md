@@ -25,5 +25,8 @@
 //oblachnost.ipynb
 работа с облачностью
 
+//osadki.ipynb
+работа с осадками
+
 //obschie.ipynb
 работа с разными переменными
